@@ -1,2 +1,2 @@
 # cloud-developer
-content for Udacity's cloud developer nanodegree PR test
+content for Udacity's cloud developer nanodegree git
